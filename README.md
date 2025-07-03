@@ -39,16 +39,18 @@ I'm a brazilian full-stack developer focused on innovation, design, and user exp
 <div style="display: flex; justify-content: flex-start; gap: 10px; align-items: center;">
 </div>
 
-
-<div style="display: flex; gap: 10px;">
-  <img
-    alt="GitHub stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=kkshiguematsu&show_icons=true&theme=tokyonight&include_all_commits=true"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kkshiguematsu&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
-  <img
-    alt="Languages stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkshiguematsu&layout=compact&theme=tokyonight"
-  />
-</div>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkshiguematsu&layout=compact&theme=tokyonight" 
+    />
+</p>
